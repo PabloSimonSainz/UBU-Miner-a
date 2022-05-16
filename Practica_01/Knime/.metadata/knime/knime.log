@@ -4406,3 +4406,13 @@ java.lang.IllegalArgumentException: No column selected for category values.
 2022-03-23 09:30:39,858 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
 2022-03-23 09:30:39,858 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
 2022-03-23 09:30:39,858 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : PowerShell command powershell -inputformat none -outputformat text -NonInteractive -Command Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender\Exclusions\Processes' -ErrorAction Stop | Select-Object -ExpandProperty Property did not terminate successfully.
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Stderr is:
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : Get-Item : Acceso denegado al Registro solicitado.
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : En l¡nea: 1 Car cter: 1
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + Get-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windo ...
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  : + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + CategoryInfo          : PermissionDenied: (HKEY_LOCAL_MACH...sions\Processes:String) [Get-Item], SecurityExcepti 
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :    on
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :     + FullyQualifiedErrorId : System.Security.SecurityException,Microsoft.PowerShell.Commands.GetItemCommand
+2022-04-04 18:49:24,397 : ERROR : main :  : WindowsDefenderExceptionHandler :  :  :  

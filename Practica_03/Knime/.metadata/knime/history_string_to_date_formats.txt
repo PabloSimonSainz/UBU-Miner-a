@@ -1,0 +1,7 @@
+yyyy-MM-dd' 'HH:mm:ss 'UTC'
+yyyy-MM-dd HH:mm:ss 'UTC'
+yyyy-MM-dd HH:mm:ss '['zzz']'
+yyyy-MM-dd HH:mm:ss '['zzzz']'
+yyyy-MM-dd HH:mm [zzzz]
+yyyy-MM-dd HH:mm
+yyyy-MM-dd'T'HH:mm

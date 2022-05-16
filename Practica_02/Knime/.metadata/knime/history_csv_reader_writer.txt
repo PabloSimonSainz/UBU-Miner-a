@@ -1,0 +1,8 @@
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_01\Knime\Wine\Data\WineClass.csv
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_01\Knime\Wine\Data\WineColor.csv
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_01\Knime\Wine\Data\WineChemicals.csv
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_02\Knime\Heart\Data\heart_2020_small.csv
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_02\Python\heart_2020_small_sanitazed.csv
+C:\Users\Tato\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_02\Knime\Heart\Data\heart_2020_small_sanitazed.csv
+C:\Users\Ivan\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_02\Knime\Heart\Data\heart_2020_small.csv
+C:\Users\Ivan\Dropbox\Uni_4_1()\Asignaturas\Mineria\Practicas\Repo\Practica_02\Knime\Heart\Data\heart_2020_cleaned.csv
